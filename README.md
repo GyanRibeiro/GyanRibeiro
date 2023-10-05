@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+<img src="https://komarev.com/ghpvc/?username=GyanRibeiro&style=for-the-badge"></img>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gyan+Ribeiro;I'm+19+years+old;Studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -12,7 +13,6 @@
   <a href = "gyanribeiro29@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gyan_rj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://twitter.com/zGyanz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    
 </div>
 
 ### Main technologies used:
