@@ -13,9 +13,9 @@
 </div>
 
 <br>
-<div align="center">  
+<div align="center" style="display:flex; justify-content:space-around">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GyanRibeiro&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=22222b" alt="Gyan Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanRibeiro&layout=compact&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyanRibeiro&layout=compact&hide_border=true&title_color=00FFFF&text_color=ffffff&bg_color=22222b" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GyanRibeiro&bg_color=0d1117&color=00FFFF&line=00dcff&point=FF4500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
