@@ -32,7 +32,7 @@
 ### Automation and Data:
 ![POWERBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=ghost&logoColor=yellow)
 ![SnowFlake](https://img.shields.io/badge/snowflake-%23316192.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![PowerAutomate](https://img.shields.io/badge/P.Automate-%232C3454.svg?&style=for-the-badge&logo=automate&logoColor=Blue)
+![PowerPlatform](https://img.shields.io/badge/P.platform-%232C3454.svg?&style=for-the-badge&logo=automate&logoColor=Blue)
 
 ### Other Skills:
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,25 +43,22 @@
 
 ### 🌐 Statistics
 
+<div>
   <img
     alt="Github Stats"
     height="200px"
     src="https://github-stats-extended.vercel.app/api?username=gyanribeiro&theme=dark&include_all_commits=true"
   />
+  ㅤ
   <img
     alt="Top Languages"
     height="200px"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gyanribeiro&theme=dark&layout=compact&custom_title=Technologies&langs=count=9"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gyanribeiro&theme=dark&layout=compact&custom_title=Technologies&langs=count=7"
   />
-
-<div>
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="SEU_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
 </div>
+
+<br clear="both">
+
+> *“Enquanto adiamos , a vida passa voando.”*
+>
+> — **Sêneca**
