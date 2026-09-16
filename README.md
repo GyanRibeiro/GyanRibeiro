@@ -32,7 +32,7 @@
 ### Automation and Data:
 ![POWERBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=ghost&logoColor=yellow)
 ![SnowFlake](https://img.shields.io/badge/snowflake-%23316192.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![PowerPlataform](https://img.shields.io/badge/P.Plataform-%232C3454.svg?&style=for-the-badge&logo=automate&logoColor=Blue)
+![PowerAutomate](https://img.shields.io/badge/P.Automate-%232C3454.svg?&style=for-the-badge&logo=automate&logoColor=Blue)
 
 ### Other Skills:
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,7 +43,6 @@
 
 ### 🌐 Statistics
 
-<div>
   <img
     alt="Github Stats"
     height="200px"
@@ -54,9 +53,6 @@
     height="200px"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=gyanribeiro&theme=dark&layout=compact&custom_title=Technologies&langs=count=9"
   />
-</div>
-
-<br clear="both">
 
 <div>
   <a href="SEU_LINKEDIN">
