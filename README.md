@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-> *“Enquanto adiamos , a vida passa voando.”*
+> *“While we are postponing, life speeds by.”*
 >
 > — **Sêneca**
